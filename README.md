@@ -79,8 +79,8 @@ Open `Titanic_Survival_Prediction.ipynb` to explore the full workflow.
 
 | Model               | Accuracy |
 | ------------------- | -------- |
-| Logistic Regression | \~80%    |
-| Decision Tree       | \~72%    |
+| Logistic Regression | \80%    |
+| Decision Tree       | \72%    |
 
 ## 🚀 Future Enhancements
 
