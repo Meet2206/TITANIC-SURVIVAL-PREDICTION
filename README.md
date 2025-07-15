@@ -35,14 +35,14 @@ A machine learning project to predict passenger survival on the Titanic using de
 
 ### 1. Logistic Regression
 - Trained on **scaled features**
-- Accuracy: ~80%
+- Accuracy: 80%
 - Evaluated with:
   - Precision, Recall, F1-Score
   - Confusion Matrix
 
 ### 2. Decision Tree Classifier
 - Trained without scaling
-- Accuracy: ~72%
+- Accuracy: 72%
 - Same evaluation metrics as above
 
 ## 📈 Evaluation Metrics
@@ -79,8 +79,8 @@ Open `Titanic_Survival_Prediction.ipynb` to explore the full workflow.
 
 | Model               | Accuracy |
 | ------------------- | -------- |
-| Logistic Regression | \80%    |
-| Decision Tree       | \72%    |
+| Logistic Regression | 80%      |
+| Decision Tree       | 72%      |
 
 ## 🚀 Future Enhancements
 
