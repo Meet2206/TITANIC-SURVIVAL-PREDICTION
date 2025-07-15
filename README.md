@@ -2,7 +2,7 @@
 
 A machine learning project to predict passenger survival on the Titanic using demographic and travel data. This project demonstrates data preprocessing, feature engineering, and building classification models with evaluation metrics.
 
-##📂 Dataset
+📂 Dataset
 
 - Source: [Titanic Dataset - GitHub](https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)
 - Features:
